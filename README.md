@@ -1,5 +1,4 @@
 # Motorola-Sales-Analysis
-📊 Mobile Sales Dashboard
 
 📝 Short Description & Purpose
 
@@ -39,5 +38,5 @@ Dataset taken from YouTube tutorial dataset ()
 🔍 Filters: By Month, By Day Name, By Mobile Model
 
 Screenshots
-
+Dashobard looks like : ![Alt text](https://github.com/Suraj76450/Motorola-Sales-Analysis/blob/main/Motorola%20Sales%20Analysis.png)
 Dashobard looks like : !Dashboard Preview(https://github.com/Suraj76450/Motorola-Sales-Analysis/blob/main/Motorola%20Sales%20Analysis.png)
