@@ -1,4 +1,6 @@
-# Motorola-Sales-Analysis
+# 📊 Motorola Dashboard
+
+ Motorola Sales Analysis 
 
 📝 Short Description & Purpose
 
